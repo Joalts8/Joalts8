@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+**public static Stings args(main[] void){  
+&nbsp; &nbsp; &nbsp;Holamundo("System.out.println")  
+}  
+//Me cago en Java**
+
 <!--
 **Joalts8/Joalts8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
