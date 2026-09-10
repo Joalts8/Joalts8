@@ -57,9 +57,13 @@ public static Stings args(main[] void){
 
 ## 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joalts8&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Joalts8&layout=compact&theme=radical&hide_border=true)
-![Racha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Joalts8&theme=radical&hide_border=true)
+| Resumen General | Lenguajes más usados |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true) |
+
+| Racha de Actividad |
+| :---: |
+| ![Racha](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical&hide_border=true) |
 
 ---
 
