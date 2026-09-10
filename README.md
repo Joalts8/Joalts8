@@ -23,7 +23,6 @@ public static Stings args(main[] void){
 - 🖤 Me gusta mancharme las manos diseñando e implementando, ya sea manual o con ayuda de la IA
 
 ### Certificados
-
 - Iniciación al desarrollo con IA. Por Big School y Brais Moure
 
 ---
@@ -52,15 +51,15 @@ public static Stings args(main[] void){
 
 ---
 
-## 📊 Estadísticas
+## 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joalts8&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Joalts8)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Joalts8&layout=compact&theme=radical&hide_border=true)](https://github.com/Joalts8)
+[![Racha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Joalts8&theme=radical&hide_border=true)](https://github.com/Joalts8)
 
 ---
 
 ## 📫 Conecta conmigo
 
-- 📧 **Correo:** tu_correo@ejemplo.com
-- 💬 **Telegram:** [TU_USUARIO_TELEGRAM](https://t.me/TU_USUARIO_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TU_TELEGRAM)
+[![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@uma.es)
