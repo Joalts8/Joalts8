@@ -57,18 +57,9 @@ public static Stings args(main[] void){
 
 ## 📊 Mis Estadísticas en GitHub
 
-
-| Logros y Trofeos |
-| :---: |
-| ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Joalts8&theme=radical&no-frame=true&no-bg=true&margin-w=4) |
-
 | Racha de Actividad |
 | :---: |
 | ![Racha](https://streak-stats.demolab.com/?user=Joalts8&theme=radical&hide_border=true) |
-
-| Gráfico de Actividad Reciente |
-| :---: |
-| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joalts8&theme=radical&hide_border=true&area=true) |
 
 ---
 
