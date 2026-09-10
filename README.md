@@ -60,15 +60,15 @@ public static Stings args(main[] void){
 
 | Logros y Trofeos |
 | :---: |
-| ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=4) |
+| ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Joalts8&theme=radical&no-frame=true&no-bg=true&margin-w=4) |
 
 | Racha de Actividad |
 | :---: |
-| ![Racha](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical&hide_border=true) |
+| ![Racha](https://streak-stats.demolab.com/?user=Joalts8&theme=radical&hide_border=true) |
 
 | Gráfico de Actividad Reciente |
 | :---: |
-| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=radical&hide_border=true&area=true) |
+| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joalts8&theme=radical&hide_border=true&area=true) |
 
 ---
 
