@@ -57,13 +57,18 @@ public static Stings args(main[] void){
 
 ## 📊 Mis Estadísticas en GitHub
 
-| Resumen General | Lenguajes más usados |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true) |
+
+| Logros y Trofeos |
+| :---: |
+| ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=4) |
 
 | Racha de Actividad |
 | :---: |
 | ![Racha](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical&hide_border=true) |
+
+| Gráfico de Actividad Reciente |
+| :---: |
+| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=radical&hide_border=true&area=true) |
 
 ---
 
