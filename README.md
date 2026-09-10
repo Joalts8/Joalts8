@@ -62,4 +62,4 @@ public static Stings args(main[] void){
 ## 📫 Conecta conmigo
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TU_TELEGRAM)
-[![Email](https://img.shields.io/badge/Correo-6D4AFF?sltyle=for-the-badge&ogo=protonmail&logoColor=white)](mailto:tu_correo@uma.es)
+[![Email](https://img.shields.io/badge/Correo-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tu_correo@uma.es)
