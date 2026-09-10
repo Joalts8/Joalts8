@@ -50,6 +50,10 @@ public static Stings args(main[] void){
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 🚀 Proyectos Destacados
+
+* **[Bancosol](https://github.com/Felisuco092/Bancosol)** - Trabajo de clase para Bancosol para gestión de campañas de recolección de comida. Versiones en html+css+js(incompleta), react y java+SpringBoot(version base y refactorizada con buenas practicas).
+* **[ApuntesUMA](https://github.com/Joalts8/ApuntesUMA)** - Apuntes útiles para diversas asignaturas de la UMA. Incluye programación basica de `c++`; basica, funcional y concurrente de `Scala`; `html, css, js, react` y `springboot en java`. Ademas de templates para programacion assitida con IA con metodología SDD.
 
 ## 📊 Mis Estadísticas en GitHub
 
