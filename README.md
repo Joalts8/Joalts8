@@ -23,26 +23,30 @@ public static Stings args(main[] void){
 - 🖤 Me gusta mancharme las manos diseñando e implementando, ya sea manual o con ayuda de la IA.
 
 #### Certificados
-- Iniciación al desarrollo con IA. Por Big Schooll y Brais Moure
+- Iniciación al desarrollo con IA. Por Big School y Brais Moure.
 
 ---
 
 ### 🛠️ Stack & Herramientas
 
 **Lenguajes de Programación**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks & Librerías**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Maquetación & Estructura**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Herramientas & Control de Versiones**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
