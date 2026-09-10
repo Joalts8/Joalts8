@@ -1,6 +1,11 @@
 # Hola Chat, soy Jorge 👋
 
 ```java
+/**
+ * Error: 404 - Logic Not Found
+ * Status: Compilando a base de café y fe
+ */
+
 public static Stings args(main[] void){  
     Holamundo("System.out.println");
 }  
@@ -13,19 +18,32 @@ public static Stings args(main[] void){
 
 - 🎓 Estudiante de **Ingeniería de Software** en [Universidad de Málaga](https://www.uma.es/).
 - 💻 Enfocado actualmente en el final de la carrera.
-- ⚡ Curiosidad: Capaz de pelearme 3 horas con el recolector de basura de Java antes que tocar indentación en Python.
+- ⚙️ Fanático del tipado estático, las arquitecturas limpias y quejarme de la indentación de Python.
+- ☕ Convirtiendo café en `NullPointerException` desde primer curso.
+- 🖤 Me gusta mancharme las manos diseñando e implementando, ya sea manual o con ayuda de la IA.
+
+#### Certificados
+- Iniciación al desarrollo con IA. Por Big Schooll y Brais Moure
 
 ---
 
 ### 🛠️ Stack & Herramientas
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</div>
+**Lenguajes de Programación**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Librerías**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Maquetación & Estructura**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Herramientas & Control de Versiones**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
