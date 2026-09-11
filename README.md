@@ -64,7 +64,7 @@ public static Stings args(main[] void){
 | ![Racha](https://streak-stats.demolab.com/?user=Joalts8&theme=radical&hide_border=true) |
 
 ![a](https://github-readme-stats-fast.vercel.app/api?username=Joalts8&show_icons=true&theme=tokyonight&hide_border=true)
-[b](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joalts8&layout=compact&theme=tokyonight&hide_border=true)
+![b](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joalts8&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ---
