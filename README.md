@@ -59,12 +59,13 @@ public static Stings args(main[] void){
 
 ## 📊 Mis Estadísticas en GitHub
 
+| Estadísticas | Lenguajes |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats-fast.vercel.app/api?username=Joalts8&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joalts8&layout=compact&theme=tokyonight&hide_border=true) |
+
 | Racha de Actividad |
 | :---: |
-| ![Racha](https://streak-stats.demolab.com/?user=Joalts8&theme=radical&hide_border=true) |
-
-![a](https://github-readme-stats-fast.vercel.app/api?username=Joalts8&show_icons=true&theme=tokyonight&hide_border=true)
-![b](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Joalts8&layout=compact&theme=tokyonight&hide_border=true)
+| ![Racha](https://streak-stats.demolab.com/?user=Joalts8&theme=tokyonight&hide_border=true) |
 
 
 ---
