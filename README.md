@@ -29,7 +29,7 @@ public static Stings args(main[] void){
 
 ## 🛠️ Stack & Herramientas
 
-![Linux](https://img.shields.io/badge/Linux-#00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
 
 ### Lenguajes de Programación
 
