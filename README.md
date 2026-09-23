@@ -53,7 +53,7 @@ public static Stings args(main[] void){
 ### Herramientas & Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![OpenCode](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 ![AGY](https://img.shields.io/badge/AGY_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
