@@ -57,12 +57,14 @@ public static Stings args(main[] void){
 ![AGY](https://img.shields.io/badge/AGY_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
-### 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 * **[Bancosol](https://github.com/Felisuco092/Bancosol)** - Trabajo de clase para Bancosol para gestión de campañas de recolección de comida. Versiones en html+css+js(incompleta), react, y java+SpringBoot.
-* **[ApuntesUMA](https://github.com/Joalts8/ApuntesUMA)** - Apuntes útiles para diversas asignaturas de la UMA. Incluye programación basica de `c++`; basica, funcional y concurrente de `Scala`; `html, css, js, react` y `springboot en java`. Ademas de templates para programacion assitida con IA con metodología SDD.
   
 ### Otros proyectos
+* **[Trabajo MyD](https://github.com/Joalts8/Trabajo_MyD)** - Trabajo de clase de modelado y diseño de software. Consiste en aplicar distintos patrones de diseño para crear un sistema de información sobre Formula 1.
+* **[ApuntesUMA](https://github.com/Joalts8/ApuntesUMA)** - Apuntes útiles para diversas asignaturas de la UMA. Incluye programación basica de `c++`; basica, funcional y concurrente de `Scala`; `html, css, js, react` y `springboot en java`. Ademas de templates para programacion assitida con IA con metodología SDD.
+
 
 ---
 ## 📊 Mis Estadísticas en GitHub
