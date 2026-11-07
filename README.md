@@ -33,9 +33,13 @@ public static Stings args(main[] void){
 
 ### Lenguajes de Programación
 
+#### Más usados
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+#### Otros
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,8 +47,8 @@ public static Stings args(main[] void){
 ### Frameworks & Librerías
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Maquetación & Estructura
 
@@ -53,8 +57,14 @@ public static Stings args(main[] void){
 ### Herramientas & Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 ![AGY](https://img.shields.io/badge/AGY_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GHCopilot](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+### Entornos más usados
+![Orca](https://img.shields.io/badge/Orca_ADE-8E75B2?style=for-the-badge)
+[![Zed](https://img.shields.io/badge/Zed-00465B?style=for-the-badge&logo=zedindustries&logoColor=white)](https://github.com/zed-industries/zed)
 
 ---
 ## 🚀 Proyectos Destacados
