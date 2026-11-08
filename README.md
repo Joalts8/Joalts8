@@ -63,7 +63,7 @@ public static Stings args(main[] void){
 ![GHCopilot](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### Entornos más usados
-![Orca](https://img.shields.io/badge/Orca_ADE-8E75B2?style=for-the-badge)
+[![Orca](https://img.shields.io/badge/Orca_ADE-8E75B2?style=for-the-badge)](https://github.com/stablyai/orca)
 [![Zed](https://img.shields.io/badge/Zed-00465B?style=for-the-badge&logo=zedindustries&logoColor=white)](https://github.com/zed-industries/zed)
 
 ---
